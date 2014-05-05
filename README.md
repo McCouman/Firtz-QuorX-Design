@@ -13,7 +13,7 @@ Du kannst deine Eigene Farbe für dein Design wählen. Hier für sind 3 Farbe ma
 - **Dark**: wird verwendet als Kontrastton
 - **light**: wird für den Hintergrund benötigt
 
-Siehe auch im [direkt im Beispiel](https://github.com/McCouman/Firtz-QuorX-Design/blob/master/Firtz_Quorx/feeds/quorx/feed.cfg#L66)
+Siehe auch [direkt im Beispiel](https://github.com/McCouman/Firtz-QuorX-Design/blob/master/Firtz_Quorx/feeds/quorx/feed.cfg#L66).
 
 Eine Vorschau findest du auch unter: http://demo-firtz-quorx.wikibyte.org
 
