@@ -1,0 +1,28 @@
+<h2>Alle Episoden</h2>
+<hr/>
+ <br>
+<table class="uk-table uk-table-hover uk-table-striped uk-table-condensed">
+<caption>Archiv - Alles im Überblick</caption>
+    <thead>
+        <tr>
+           
+            <th>Nr.</th>
+            <th>Dauer</th>
+            <th>Name</th>
+            <th>Kurz</th>
+        </tr>
+    </thead>
+    
+    
+    <tbody>
+        <repeat group="@items" value="{{@item}}">
+        <tr>
+           
+            <td><a href="/{{@feedattr.slug}}/show/{{@item.slug}}" name="{{@item.slug}}">{{@item.slug}}</a></td>
+            <td><check if="{{@item.duration}}">{{@item.duration}}</check></td>
+            <td><a href="/{{@feedattr.slug}}/show/{{@item.slug}}" name="{{@item.slug}}"><span class="text-center">{{@item.title}}</span></a></td>
+        	<td>{{@item.description}}</td>
+        </tr>
+        </repeat>
+    </tbody>
+</table>
