@@ -15,7 +15,9 @@ Du kannst deine Eigene Farbe für dein Design wählen. Hier für sind 3 Farbe ma
 
 Siehe auch im [direkt im Beispiel](https://github.com/McCouman/Firtz-QuorX-Design/blob/master/Firtz_Quorx/feeds/quorx/feed.cfg#L66)
 
-##Derzeitige Version: 
+Eine Vorschau findest du auch unter: http://demo-firtz-quorx.wikibyte.org
+
+####Derzeitige Version: 
 - V.: 1.0.3a
 
 
@@ -28,10 +30,10 @@ Siehe auch im [direkt im Beispiel](https://github.com/McCouman/Firtz-QuorX-Desig
 
 ##Unterstütze die Entwicklungen:
 
-Firtz: <a href="https://flattr.com/thing/1657848/firtz"><img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
-alt="Flattr This" title="Flattr This" style="max-width:100%;"> Christian Bednarek</a> 
+Firtz by <a href="https://flattr.com/thing/1657848/firtz">Christian Bednarek <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"></a> 
 
-Design: <a href="https://flattr.com/profile/mccouman"><img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
-alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael McCouman Jr.</a> 
+QuarX Design: <a href="https://flattr.com/profile/mccouman">Michael McCouman Jr. <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"></a> 
 
 <img src="http://piwik.tools.wikibyte.org/piwik.php?idSite=1&rec=1" style="border:0" alt="" />
