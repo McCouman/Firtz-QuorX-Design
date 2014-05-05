@@ -8,14 +8,27 @@ QuorX ist entstanden bei der Entwicklung für den Podcast <a href="http://bw5.wi
 und neueres Design, für den bekannten Publisher <a href="http://podcast.firtz.org/firtz/show">Firtz</a>.
 
 ##Wähle deine eigene Farbe:
-Du kannst deine Eigene Farbe für dein Design wählen. Hier für sind 3 Farbe maßgeblich:
+Du kannst deine eigene Farbe für dein Design wählen. Hier für sind 3 Farbe maßgeblich:
 - **Color**: ist die Standardfarbe für den Player & die Emotions
 - **Dark**: wird verwendet als Kontrastton
-- **light**: wird für den Hintergrund benötigt
+- **Light**: wird für den Hintergrund benötigt
 
 Siehe auch [direkt im Beispiel](https://github.com/McCouman/Firtz-QuorX-Design/blob/master/Firtz_Quorx/feeds/quorx/feed.cfg#L66).
 
-Eine Vorschau findest du auch unter: http://demo-firtz-quorx.wikibyte.org
+Info: bei Angaben mit HEX vergesse nicht das # zu setzen! Die ";" am Ende erübrigen sich. Hier ein kurzes Beispiel:
+<pre>
+color:
+#f00
+
+dark:
+#a00
+
+light:
+#fee
+</pre>
+
+####Vorschau unter: 
+http://demo-firtz-quorx.wikibyte.org
 
 ####Derzeitige Version: 
 - V.: 1.0.4a
