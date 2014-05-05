@@ -18,7 +18,7 @@ Siehe auch im [direkt im Beispiel](https://github.com/McCouman/Firtz-QuorX-Desig
 Eine Vorschau findest du auch unter: http://demo-firtz-quorx.wikibyte.org
 
 ####Derzeitige Version: 
-- V.: 1.0.3a
+- V.: 1.0.4a
 
 
 #The Blogpage
