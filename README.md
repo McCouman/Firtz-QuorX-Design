@@ -3,9 +3,11 @@ Firtz-QuorX-Design
 ###Neue Designs für Firtz...
 
 
-
 QuorX ist entstanden bei der Entwicklung für den Podcast <a href="http://bw5.wikibyte.org">BW5</a>. Ein etwas anderes 
 und neueres Design, für den bekannten Publisher <a href="http://podcast.firtz.org/firtz/show">Firtz</a>.
+
+<img src="https://raw.githubusercontent.com/McCouman/Firtz-QuorX-Design/master/Firtz_Quorx/img/firtz-design.png">
+
 
 ##Wähle deine eigene Farbe:
 Du kannst deine eigene Farbe für dein Design wählen. Hier für sind 3 Farbe maßgeblich:
@@ -14,6 +16,8 @@ Du kannst deine eigene Farbe für dein Design wählen. Hier für sind 3 Farbe ma
 - **Light**: wird für den Hintergrund benötigt
 
 Siehe auch [direkt im Beispiel](https://github.com/McCouman/Firtz-QuorX-Design/blob/master/Firtz_Quorx/feeds/quorx/feed.cfg#L66).
+
+
 
 Info: bei Angaben mit HEX vergesse nicht das # zu setzen! Die ";" am Ende erübrigen sich. Hier ein kurzes Beispiel:
 <pre>
