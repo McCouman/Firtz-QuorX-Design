@@ -15,6 +15,9 @@ Du kannst deine Eigene Farbe für dein Design wählen. Hier für sind 3 Farbe ma
 
 Siehe auch im [direkt im Beispiel](https://github.com/McCouman/Firtz-QuorX-Design/blob/master/Firtz_Quorx/feeds/quorx/feed.cfg#L66)
 
+##Derzeitige Version: 
+- V.: 1.0.3a
+
 
 #The Blogpage
 <img src="https://raw.githubusercontent.com/McCouman/Firtz-QuorX-Design/master/screencapture-blog.png">
@@ -30,3 +33,5 @@ alt="Flattr This" title="Flattr This" style="max-width:100%;"> Christian Bednare
 
 Design: <a href="https://flattr.com/profile/mccouman"><img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
 alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael McCouman Jr.</a> 
+
+<img src="http://piwik.tools.wikibyte.org/piwik.php?idSite=1&rec=1" style="border:0" alt="" />
