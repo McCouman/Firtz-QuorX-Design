@@ -3,7 +3,7 @@ Firtz-QuorX-Design
 ###Neue Designs für Firtz...
 
 
-QuorX ist entstanden bei der Entwicklung für den Podcast <a href="http://bw5.wikibyte.org">BW5</a>. Ein etwas anderes 
+QuorX ist entstanden bei der Entwicklung für die (Test) Podcasts <a href="http://bw5.wikibyte.org">BW5</a> & <a href="http://tu.wikibyte.org">TestingUnits</a>. Ein etwas anderes 
 und neueres Design, für den bekannten Publisher <a href="http://podcast.firtz.org/firtz/show">Firtz</a>.
 
 <img src="https://raw.githubusercontent.com/McCouman/Firtz-QuorX-Design/master/Firtz_Quorx/img/firtz-design.png">
