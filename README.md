@@ -32,7 +32,7 @@ light:
 </pre>
 
 ####Vorschau unter: 
-http://demo-firtz-quorx.wikibyte.org
+http://demo-quorx.firtzdesign.wikibyte.org
 
 ####Derzeitige Version: 
 - V.: 1.0.4a
