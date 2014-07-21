@@ -52,5 +52,3 @@ alt="Flattr This" title="Flattr This" style="max-width:100%;"></a>
 
 QuarX Design: <a href="https://flattr.com/profile/mccouman">Michael McCouman Jr. <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
 alt="Flattr This" title="Flattr This" style="max-width:100%;"></a> 
-
-<img src="http://piwik.tools.wikibyte.org/piwik.php?idSite=1&rec=1" style="border:0" alt="" />
