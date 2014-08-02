@@ -35,7 +35,7 @@ light:
 http://demo-quorx.firtzdesign.wikibyte.org
 
 ####Derzeitige Version: 
-- V.: 1.0.4a
+- V.: 1.1.1b
 
 
 #The Blogpage
