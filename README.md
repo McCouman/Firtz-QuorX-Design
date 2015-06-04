@@ -50,5 +50,5 @@ http://demo-quorx.firtzdesign.wikibyte.org
 Firtz by <a href="https://flattr.com/thing/1657848/firtz">Christian Bednarek <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
 alt="Flattr This" title="Flattr This" style="max-width:100%;"></a> 
 
-QuarX Design: <a href="https://flattr.com/profile/mccouman">Michael McCouman Jr. <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
+QuorX Design: <a href="https://flattr.com/profile/mccouman">Michael McCouman Jr. <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
 alt="Flattr This" title="Flattr This" style="max-width:100%;"></a> 
